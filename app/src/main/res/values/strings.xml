@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyCGPA</string>
+    <string-array name="subjects">
+        <item>--SELECT--</item>
+        <item>Mathematics I</item>
+        <item>Mathematics II</item>
+        <item>Computer Programing (Oddsem)</item>
+        <item>Computer Programing (Evensem)</item>
+        <item>Applied Physics</item>
+        <item>Applied Chemistry</item>
+        <item>Mechanics</item>
+        <item>Manufacturing Processes</item>
+        <item>Energy Environment</item>
+        <item>Engineering Drawing</item>
+        <item>Electrical And Electronics Engineering</item>
+        <item>Proffessional Communication</item>
+    </string-array>
+</resources>
